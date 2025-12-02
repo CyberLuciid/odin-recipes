@@ -50,3 +50,15 @@ img {
 h2 {
     text-align: center;
 }
+
+h3 {
+    text-align: center;
+    text-indent: -500px;
+}
+
+p {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
